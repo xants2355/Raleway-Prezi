@@ -1,9 +1,7 @@
 Raleway Prezi
 =======
 
-The Raleway Prezi – our branded typeface, upgraded, extended and fitted to our requirements. For more information check README.md please.
-
-We use in Prezi Brand only three styles: Raleway Prezi Regular, Raleway Prezi SemiBold and Raleway Prezi Heavy.
+The Raleway Prezi – Prezi branded typeface, upgraded, extended and fitted to brand requirements.
 
 Folder structure:
 
@@ -33,7 +31,7 @@ http://www.impallari.com/projects/overview/matt-mcinerneys-raleway-family
 
 ---
 
-Installation and troubleshooting (this is mostly for usage in print and its happen after when you download and install the newest version of the font):
+Installation and troubleshooting (this is mostly for usage in print and its happen after when you download and install any newest version of the font):
 
 Font cache problems: 
 http://www.glyphsapp.com/tutorials/eliminating-font-cache-problems
