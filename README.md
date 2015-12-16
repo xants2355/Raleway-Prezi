@@ -19,11 +19,6 @@ Upgraded, extended and fitted – what that means?
 – changed w to alternate w / stylistic set 02 / ss02
 – changed default numbers style from old numerals to default set / .onum
 
-Extended wit Cyrillic characters:
-– Heavy: in progress
-– SemiBold: notyet
-– Regular: not yet
-
 —
 
 Original Font Source
